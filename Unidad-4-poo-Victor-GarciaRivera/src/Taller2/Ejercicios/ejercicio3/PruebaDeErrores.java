@@ -3,7 +3,7 @@ package Taller2.Ejercicios.ejercicio3;
 public class PruebaDeErrores {
     private String error;
 
-    public static void mostrarError(){
+    public void mostrarError(){
         System.out.println(this.error);
     }
 }
